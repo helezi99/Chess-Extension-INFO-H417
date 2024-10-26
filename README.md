@@ -5,12 +5,15 @@ Here’s an extension of the README following your provided format:
 # Chess Database Project
 
 INFOH417 - Database Systems Architecture (2023/24) - ULB <br />
+Team: Rana İşlek, Herma Elezi, Narmina Mahmudova, Shofiyyah Nadhiroh
+
+
 
 <div align="center">
     <img src="https://actus.ulb.be/medias/photo/logo-universite-libre-bruxelles_1661952138925-png?ID_FICHE=19524" alt="ULB Logo" width="300"/>
 </div>
 
-<p align="center">
+<p align="center" style="padding: 20px;">
     <img src="https://i.pinimg.com/originals/c7/4f/70/c74f70c20e6c30915d28c638510bfee1.gif" alt="Chess gif" width="500"/>
 </p>
 
