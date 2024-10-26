@@ -10,10 +10,10 @@ INFOH417 - Database Systems Architecture (2023/24) - ULB <br />
     <img src="https://actus.ulb.be/medias/photo/logo-universite-libre-bruxelles_1661952138925-png?ID_FICHE=19524" alt="ULB Logo" width="300"/>
 </div>
 
+<p align="center">
+    <img src="https://i.pinimg.com/originals/c7/4f/70/c74f70c20e6c30915d28c638510bfee1.gif" alt="Chess gif" width="500"/>
+</p>
 
-<div align="center">
-    <img src="[https://actus.ulb.be/medias/photo/logo-universite-libre-bruxelles_1661952138925-png?ID_FICHE=19524](https://i.pinimg.com/originals/c7/4f/70/c74f70c20e6c30915d28c638510bfee1.gif)" alt="Chess gif" width="500"/>
-</div>
 <br>
 
 This project aims to develop a PostgreSQL extension for storing and retrieving chess games, utilizing data types and functions based on common chess notations (PGN, SAN, FEN). The extension will support efficient queries on chess game data with custom indexing.
